@@ -6,13 +6,21 @@
 Here are some ideas to get you started:
 
 - 📈 Atualmente estou trabalhando com Análise de Dados e Machine Learning.
-- 🌱 Estou estudando atualmente programação com Python para Machine Learning e Análise de dados.  
+- 🌱 Estou estudando atualmente lógica de programação com Python para Machine Learning e Análise de dados.
+- 📖 Vou seguir com meus estudos para bibliotecas como Panda e Numpay para Análise de Dados preditiva e aprofundar também meus conhecimentos em banco de dados SQL para consultas e manipulação de dados. 
 - 📫 Como entrar em contato comigo: www.linkedin.com/in/lindissythais
 <div style="display: inline_block"><br>
   
 <img align="center" alt="Lindi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
 
-<img align="center" alt="Lindi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+<img align="center" alt="Lindi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
+<img align="center" alt="Lindi-NumPay" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
+
+
+<img align="center" alt="Lindi-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
+          
+          
           
 </div>
   
