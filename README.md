@@ -4,10 +4,9 @@
 **lindissyalmeida/lindissyalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 📈 Atualmente estou trabalhando com Análise de Dados e Machine Learning.
+- Trabalhei muito tempo na área de infraestrutura de TI e suporte, mas hoje estou buscando migrar para área de DEV com foco no desenvolvimento back-end, com foco em python.
 - 🌱 Estou estudando atualmente lógica de programação com JavaScript, SQL e quero evoluir estudando também python e focar no desenvolvimento back-end.
-- 📖 Vou seguir com meus estudos para bibliotecas como Panda e Numpay para Análise de Dados preditiva e aprofundar também meus conhecimentos em banco de dados SQL para consultas e manipulação de dados. 
+- 📖 Vou seguir com meus estudos para frameworks como django para desenvolvimento de sistemas com Python. 
 - 📫 Como entrar em contato comigo: www.linkedin.com/in/lindissythais
 <div style="display: inline_block"><br>
   
