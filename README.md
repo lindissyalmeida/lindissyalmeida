@@ -1,27 +1,27 @@
 ## Oii, eu sou a Lindissy Almeida!
 
+✨ Sobre mim
 
-**lindissyalmeida/lindissyalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou profissional de Infraestrutura de TI, com experiência em suporte técnico, ambientes Linux, redes e gerenciamento de serviços. Atualmente estou direcionando minha carreira para Segurança da Informação, com interesse em SOC, análise de vulnerabilidades, hardening e automação de tarefas em ambientes Linux.
 
-Here are some ideas to get you started:
-- Trabalhei muito tempo na área de infraestrutura de TI e suporte, mas hoje estou buscando migrar para área de DEV com foco no desenvolvimento back-end utilizando Python.
-- 🌱 Estou estudando atualmente lógica de programação com JavaScript, SQL e quero evoluir estudando também python e focar no desenvolvimento back-end.
-- 📖 Vou seguir com meus estudos para frameworks como django para desenvolvimento de sistemas com Python. 
-- 📫 Como entrar em contato comigo: www.linkedin.com/in/lindissythais
-<div style="display: inline_block"><br>
-  
-<img align="center" alt="Lindi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+Estou em constante evolução para trabalhar com Defensive Security, Linux, monitoramento, segurança em rede e fundamentos que sustentam uma boa postura de segurança corporativa.
 
-<img align="center" alt="Lindi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+🌱 O que estou estudando agora
 
-<img align="center" alt="Lindi-NumPay" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
+🐧 Linux avançado (administração, serviços, automação, hardening)
 
+🔐 Cibersegurança — fundamentos SOC, SIEM, análise de logs, ataques e defesas
 
-<img align="center" alt="Lindi-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
-          
-          
-          
-</div>
-  
+🌐 Redes — protocolos, segurança, segmentação e troubleshooting
 
+🛠️ Ferramentas de segurança — nmap, Hydra, Burp Suite, Wireshark, Metasploit
+
+📦 Infraestrutura — Docker, virtualização, ambientes de laboratório
+
+📫 Como me encontrar
+
+LinkedIn: www.linkedin.com/in/lindissythais
+
+🧰 Tecnologias e Ferramentas
+<div style="display: inline_block"><br> <img align="center" alt="Lindi-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img align="center" alt="Lindi-Bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> <img align="center" alt="Lindi-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img align="center" alt="Lindi-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" /> <img align="center" alt="Lindi-Nmap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nmap/nmap-original.svg" /> <img align="center" alt="Lindi-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> </div>
 
